@@ -1,4 +1,4 @@
-# Jack in the Box
+# Dynamic Machine System Factory
 
 ## Overview
 The **Canadian Experience** project is a C++ application designed to simulate and animate various machine systems and characters. It features an animation framework, actor and timeline management, and machine system integrations. The project is built using CMake for cross-platform compatibility and includes a robust testing suite powered by Google Test.
