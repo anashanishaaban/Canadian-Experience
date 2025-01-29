@@ -66,9 +66,5 @@ doxygen Doxyfile.doxy
 ```
 Then, open `html/index.html` in a browser.
 
-## Contributors
-- **Your Name** (you@example.com)
-- Open to contributions! Feel free to submit pull requests.
-
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
